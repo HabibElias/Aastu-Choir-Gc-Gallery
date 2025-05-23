@@ -3,6 +3,9 @@
 
 A web-based gallery for showcasing memorable moments of the AASTU Choir Graduating Class of 2025. This project uses React, TypeScript, Vite, Tailwind CSS, and Firebase to create a smooth, responsive, and dynamic experience.
 
+## Deployment
+The gallery is live at [https://aastugc2025.vercel.app/](https://aastugc2025.vercel.app/).
+
 ## 📸 Features
 
 - **Photo Gallery** – Displays images of GC members uploaded and managed through Firebase.
